@@ -179,12 +179,6 @@ const api = axios.create({
 
 ---
 
-## Repositorio Backend
-
-🔗 [FORMEX Backend Repository](https://github.com/SuperInkaWeb/FORMEX)
-
----
-
 ## 📧 Contacto
 
 **Email:** jeanpierquispesantisteba@gmail.com
