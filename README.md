@@ -187,6 +187,6 @@ const api = axios.create({
 
 ## 📧 Contacto
 
-**Email:** faridlazo1921@gmail. com
+**Email:** jeanpierquispesantisteba@gmail.com
 
 ---
